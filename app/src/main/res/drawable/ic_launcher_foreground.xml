@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Open Book Base (Knowledge foundation) -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M 32,68 C 38,65 47,65 54,67 C 61,65 70,65 76,68 L 76,76 C 70,73 61,73 54,75 C 47,73 38,73 32,76 Z" />
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M 34,66 C 39,63 47,63 53.5,65 L 53.5,73 C 47,71 39,71 34,74 Z" />
+    <path
+        android:fillColor="#C7D2FE"
+        android:pathData="M 74,66 C 69,63 61,63 54.5,65 L 54.5,73 C 61,71 69,71 74,74 Z" />
+
+    <!-- Genie Lamp Body (StudyGenie motif) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M 46,60 C 42,60 38,57 37,53 C 35,46 41,41 49,41 C 55,41 61,43 65,46 C 71,43 78,41 81,42 C 82,42 82,43 81,44 C 77,46 72,50 71,53 C 68,58 60,60 54,60 Z" />
+    
+    <!-- Lamp Handle -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M 40,49 C 34,48 33,55 38,58" />
+
+    <!-- Lamp Spout / Flame tip -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M 79,42 C 83,39 82,37 78,39 C 76,40 77,42 79,42 Z" />
+
+    <!-- Magic Vapour / Knowledge Flame -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 78,38 C 76,34 81,30 79,27 C 77,24 74,25 76,22 C 78,19 82,21 81,25 C 80,28 84,31 82,35 Z" />
+
+    <!-- Brilliant Study Stars (Sparkles) -->
+    <!-- Star 1 (Main sparkle) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 54,23 L 56,28 L 61,30 L 56,32 L 54,37 L 52,32 L 47,30 L 52,28 Z" />
+    <!-- Star 2 (Small sparkle left) -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M 39,32 L 40,35 L 43,36 L 40,37 L 39,40 L 38,37 L 35,36 L 38,35 Z" />
+    <!-- Star 3 (Top right sparkle) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 69,21 L 70,23 L 72,24 L 70,25 L 69,27 L 68,25 L 66,24 L 68,23 Z" />
+
+</vector>

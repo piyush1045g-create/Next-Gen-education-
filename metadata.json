@@ -1,0 +1,6 @@
+{
+  "name": "StudyGenie",
+  "description": "AI study assistant providing step-by-step solutions, multi-subject tutoring, and interactive resource library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
